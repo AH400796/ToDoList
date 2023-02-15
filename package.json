@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AH400796.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://AH400796.github.io/ToDoList/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.2",
